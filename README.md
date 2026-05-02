@@ -2,6 +2,8 @@
 
 Website portofolio statis untuk karya editing dan desain Bayback.
 
+Live website: https://bayukarya.vercel.app
+
 ## Isi Website
 
 - Hero portfolio dengan embed reel Instagram.
